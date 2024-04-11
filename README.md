@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 😎 About Me
-- ## A student passionate about Programming.
+ ## A student passionate about Programming.
 - 💻 I'm currently learning programming.
 - 🎉 18 y/o
 - Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
