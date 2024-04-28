@@ -8,7 +8,7 @@
 
 # 📃 My Projects
 Here are some of the projects I've been working on:
-- https://github.com/Topicr/CapitalQuiz
+- 
 
 
 # 🛠 Skills
